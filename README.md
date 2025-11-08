@@ -1,4 +1,8 @@
-[quack](https://www.acmicpc.net/problem/12933 "quack")
+<div align="center">
+  <a href="https://www.acmicpc.net/problem/12933" title="quack">quack</a>
+</div>
+
+
 <!--
 ## Hi there 👋
 **kjh015/kjh015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
